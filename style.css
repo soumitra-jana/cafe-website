@@ -121,7 +121,7 @@ h1{
 /*Responsive Quries*/
 @media only screen and (max-width: 1180px){
 	.main-content-header{
-		width: 100%;
+		width: 99%;
 		padding:0 2%;
 
 	}
